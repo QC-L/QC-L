@@ -2,7 +2,7 @@
 
 I'm working for Suning.com Co.,ltd.
 
-[![QC-L's github stats](https://github-readme-stats.vercel.app/api?username=QC-L)](https://github.com/QC-L)
+[![QC-L's github stats](https://github-readme-stats.vercel.app/api?username=QC-L&title_color=fff&icon_color=1abc9c&text_color=798795&bg_color=2c3e50)](https://github.com/QC-L)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&layout=compact&hide=Objective-C)](https://github.com/QC-L)
 
 <div class="half">

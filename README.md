@@ -2,8 +2,10 @@
 
 I'm working for Suning.com Co.,ltd.
 
-[![QC-L's github stats](https://github-readme-stats.vercel.app/api?username=QC-L&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50)](https://github.com/QC-L)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50)](https://github.com/QC-L)
+<div class="half">
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api?username=QC-L&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QC-L&hide=Objective-C,shell&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+</div>
 
 <div class="half">
   <a href="https://github.com/remaxjs/remax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remaxjs&repo=remax&title_color=fff&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&show_owner=true" /></a>

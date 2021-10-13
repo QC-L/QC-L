@@ -1,6 +1,6 @@
 ## Hey, guys. I'm QC-L.
 
-I'm working for Suning.com Co.,ltd.
+I'm working for Plant Identification Inc.
 
 **Languages:**  
 
